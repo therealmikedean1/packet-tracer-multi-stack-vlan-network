@@ -111,3 +111,7 @@ The topology and configurations are present in the `.pkt` file, but a fresh end-
 - Add successful and intentionally blocked connectivity tests
 - Add a complete, privacy-safe topology image
 - Add an interface-level addressing table after live verification
+
+## Network Topology
+
+![Network topology](topology/network-topology.png)
